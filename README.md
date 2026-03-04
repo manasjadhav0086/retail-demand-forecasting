@@ -207,12 +207,16 @@ Total Sales KPI
 Sales trend over time
 Sales by store
 Monthly sales distribution
-<img width="773" height="684" alt="image" src="https://github.com/user-attachments/assets/e26d45b9-21a8-4f7b-8a67-35f1f04db459" />
+
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/e26d45b9-21a8-4f7b-8a67-35f1f04db459" />
 
 ### Demand Forecasting
 
 Actual vs predicted sales
 Forecast comparison across stores
+
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/bc157ac9-ddbd-42c6-b8a7-343c00702db5" />
+
 
 The dashboard helps business stakeholders **make data-driven inventory decisions**.
 
