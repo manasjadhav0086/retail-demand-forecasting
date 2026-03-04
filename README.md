@@ -207,16 +207,12 @@ Total Sales KPI
 Sales trend over time
 Sales by store
 Monthly sales distribution
+<img width="773" height="684" alt="image" src="https://github.com/user-attachments/assets/e26d45b9-21a8-4f7b-8a67-35f1f04db459" />
 
 ### Demand Forecasting
 
 Actual vs predicted sales
 Forecast comparison across stores
-
-### Inventory Optimization
-
-Recommended reorder quantity
-Demand forecast insights
 
 The dashboard helps business stakeholders **make data-driven inventory decisions**.
 
